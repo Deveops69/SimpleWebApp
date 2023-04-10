@@ -100,7 +100,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Flipkart Sales on April 2023!!</h1>
+         <h1>********Flipkart Sales on April 2023*********</h1>
     </section>    
     <section id="about"><h1>This is the About Page</h1></section>
     <section id="product"><h1>This is the Product Web Page !!</h1></section>
